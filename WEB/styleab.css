@@ -1,0 +1,29 @@
+body{ 
+    background-image: url(B52st.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+} 
+.menu-bar
+{ 
+   
+    text-align: right;
+
+}
+.menu-bar ul 
+{
+    display: inline-flex;
+    list-style: none;
+    color: aliceblue;
+} 
+.menu-bar li
+{
+    width:120px;
+    margin:10px;
+    padding:15px;   }
+
+.wrapingimage{
+    float:left;
+    margin:20px;
+    border:2px;
+}
